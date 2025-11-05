@@ -30,7 +30,7 @@ app.use(
       "http://localhost:3000",
       "http://localhost:3001",
       "https://vercel-frontend-ten-opal.vercel.app", // deployed frontend
-      "https://vercel-dashboard-lac.vercel.app/"    // deployed backend
+      "https://vercel-dashboard-lac.vercel.app"    // deployed backend
     ],
     credentials: true,
   })
